@@ -41,7 +41,7 @@ perfil/
 
 - construindo a ponte entre design e desenvolvimento;
 - trabalhando como **Desenvolvedor Pleno · AI Augmented** na LOG4 Full Commerce;
-- organizando os primeiros projetos open source deste perfil;
+- evoluindo o MyVault e o Mail Link Defender em público;
 - publicando processo, não apenas resultado final.
 
 ### `stack`
@@ -55,12 +55,33 @@ perfil/
   <img alt="Git" src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### `selecionado`
+### `em destaque / MyVault`
+
+<p align="center">
+  <a href="https://github.com/johnnymeunome/MyVault">
+    <img src="https://raw.githubusercontent.com/johnnymeunome/MyVault/main/docs/references/myvault-m0-preview.png" width="100%" alt="Dashboard final do MyVault" />
+  </a>
+</p>
+
+Um gerenciador de credenciais **local-first** que começa pela experiência e pela arquitetura. O marco `M0` entrega uma interface desktop navegável, dados somente em memória e limites claros para a futura implementação segura em Rust e KDBX.
+
+<p>
+  <img alt="Tauri 2" src="https://img.shields.io/badge/Tauri_2-171717?style=flat-square&logo=tauri&logoColor=white" />
+  <img alt="React 19" src="https://img.shields.io/badge/React_19-171717?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript strict" src="https://img.shields.io/badge/TypeScript_strict-171717?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust_boundary-171717?style=flat-square&logo=rust&logoColor=white" />
+  <a href="https://github.com/johnnymeunome/MyVault"><img alt="Abrir MyVault" src="https://img.shields.io/badge/abrir_repositório-ffffff?style=flat-square&logo=github&logoColor=black" /></a>
+</p>
+
+> [!NOTE]
+> O MyVault ainda é um protótipo de produto e não deve armazenar credenciais reais.
+
+### `outros projetos publicados`
 
 | repositório | contexto | estado |
 |:--|:--|:--|
+| [`mail-link-defender`](https://github.com/johnnymeunome/mail-link-defender) | extensão Chrome que analisa links localmente e explica sinais de phishing | `v0.2.3 · release` |
 | [`joao-victor-hub`](https://github.com/johnnymeunome/joao-victor-hub) | hub pessoal entre portfólio, links e open source | `online` |
-| [`calculadora-windows`](https://github.com/johnnymeunome/calculadora-windows) | experimento inicial com interface e lógica | `arquivo` |
 
 ### `fora do código`
 
